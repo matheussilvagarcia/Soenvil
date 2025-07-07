@@ -12,6 +12,7 @@
 <p align="center">
 Um aplicativo Android moderno para a gestão e monitoramento de obras civis, desenvolvido para a empresa Soenvil. O app centraliza informações cruciais sobre máquinas, obras e cronogramas, facilitando a comunicação e a tomada de decisões em campo.
 </p>
+<p align="center">
 📲 Disponível na Google Play
 
 Baixe o aplicativo diretamente da loja oficial do Android:
@@ -19,6 +20,7 @@ Baixe o aplicativo diretamente da loja oficial do Android:
 <a href="https://play.google.com/store/apps/details?id=com.matheussilvagarcia.soenvil">
 <img alt="Disponível no Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png" width="200"/>
 </a>
+</p>
 <p align="center">
 📜 Sobre o Projeto
 </p>
