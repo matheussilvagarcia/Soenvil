@@ -15,6 +15,7 @@ Um aplicativo Android moderno para a gestão e monitoramento de obras civis, des
 
 <p align="center">
 <strong>Disponível na Google Play</strong>
+   Baixe o aplicativo diretamente da loja oficial do Android:
 </p>
 <p align="center">
 Baixe o aplicativo diretamente da loja oficial do Android:
