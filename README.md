@@ -27,7 +27,7 @@ Baixe o aplicativo diretamente da loja oficial do Android:
 
 ---
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 O aplicativo Soenvil foi criado para otimizar a logística e o acompanhamento de projetos de construção. Ele oferece aos usuários (engenheiros, gestores de obra, operadores) uma plataforma móvel para acessar dados em tempo real, visualizar a localização de equipamentos e acompanhar o andamento das atividades.
 
@@ -35,7 +35,7 @@ O projeto foi desenvolvido utilizando as tecnologias mais recentes do ecossistem
 
 ---
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 * **Autenticação Segura:** Login e registro de usuários utilizando Firebase Authentication.
 * **Dashboard de Obras:** Visualize uma lista completa de todas as obras em andamento e concluídas.
@@ -50,7 +50,7 @@ O projeto foi desenvolvido utilizando as tecnologias mais recentes do ecossistem
 
 ---
 
-## 📱 Telas do Aplicativo
+## Telas do Aplicativo
 
 *(Recomendo que você tire prints das telas do seu app e coloque aqui. Isso torna o README muito mais atraente!)*
 
@@ -64,7 +64,7 @@ O projeto foi desenvolvido utilizando as tecnologias mais recentes do ecossistem
 
 ---
 
-## 🛠️ Tecnologias e Arquitetura
+## Tecnologias e Arquitetura
 
 Este projeto foi construído com uma arquitetura moderna e componentes de alta qualidade:
 
@@ -81,7 +81,7 @@ Este projeto foi construído com uma arquitetura moderna e componentes de alta q
 
 ---
 
-## 📜 Licença
+## Licença
 
 Copyright (c) 2025 Matheus Silva Garcia. Todos os direitos reservados.
 
@@ -89,7 +89,7 @@ Este projeto é licenciado sob uma licença proprietária. A cópia, modificaç�
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Matheus Silva Garcia**
 
