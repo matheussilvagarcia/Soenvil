@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Soenvil - Gestão de Obras</h1>
+<h1 align="center">Gestão de obras da Soenvil</h1>
 </div>
 
 <p align="center">
