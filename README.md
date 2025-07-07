@@ -8,6 +8,7 @@ Baixe o aplicativo diretamente da loja oficial do Android:
 <a href='https://play.google.com/store/apps/details?id=com.matheussilvagarcia.soenvil'>
 <img alt='Disponível no Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png' width='200'/>
 </a>
+</b>
 📜 Sobre o Projeto
 
 O aplicativo Soenvil foi criado para otimizar a logística e o acompanhamento de projetos de construção. Ele oferece aos usuários (engenheiros, gestores de obra, operadores) uma plataforma móvel para acessar dados em tempo real, visualizar a localização de equipamentos e acompanhar o andamento das atividades.
