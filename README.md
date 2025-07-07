@@ -13,7 +13,7 @@
 Um aplicativo Android moderno para a gestão e monitoramento de obras civis, desenvolvido para a empresa Soenvil. O app centraliza informações cruciais sobre máquinas, obras e cronogramas, facilitando a comunicação e a tomada de decisões em campo.
 
 <p align="center">
-📲 Disponível na Google Play
+Disponível na Google Play
 </p>
 <p align="center">
 Baixe o aplicativo diretamente da loja oficial do Android:
@@ -25,12 +25,12 @@ Baixe o aplicativo diretamente da loja oficial do Android:
 </a>
 
 <p align="center">
-📜 Sobre o Projeto
+Sobre o Projeto
 </p>
 O aplicativo Soenvil foi criado para otimizar a logística e o acompanhamento de projetos de construção. Ele oferece aos usuários (engenheiros, gestores de obra, operadores) uma plataforma móvel para acessar dados em tempo real, visualizar a localização de equipamentos e acompanhar o andamento das atividades.
 
 O projeto foi desenvolvido utilizando as tecnologias mais recentes do ecossistema Android, com foco em uma arquitetura robusta, escalável e de fácil manutenção.
-✨ Funcionalidades Principais
+Funcionalidades Principais:
 
     Autenticação Segura: Login e registro de usuários utilizando Firebase Authentication.
 
@@ -52,7 +52,7 @@ O projeto foi desenvolvido utilizando as tecnologias mais recentes do ecossistem
 
     Histórico de Alterações: Um changelog para acompanhar as atualizações e novidades do app.
 
-📸 Telas do Aplicativo
+Telas do Aplicativo
 
 (Recomendo que você tire prints das telas do seu app e coloque aqui. Isso torna o README muito mais atraente!)
 
@@ -87,7 +87,7 @@ Configurações
 	
 
 [Imagem da tela de Configurações]
-🛠️ Tecnologias e Arquitetura
+Tecnologias e Arquitetura
 
 Este projeto foi construído com uma arquitetura moderna e componentes de alta qualidade:
 
@@ -111,9 +111,9 @@ Este projeto foi construído com uma arquitetura moderna e componentes de alta q
 
     Mapas: Google Maps Platform.
 
-📄 Licença
+Licença
 
-Copyright (c) 2024 Matheus Silva Garcia. Todos os direitos reservados.
+Copyright (c) 2025 Matheus Silva Garcia. Todos os direitos reservados.
 
 Este projeto é licenciado sob uma licença proprietária. A cópia, modificação ou distribuição do código-fonte é estritamente proibida sem a permissão prévia por escrito do autor. Veja o arquivo LICENSE para mais detalhes.
 👨‍💻 Autor
