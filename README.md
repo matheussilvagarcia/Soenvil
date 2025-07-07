@@ -52,15 +52,14 @@ O projeto foi desenvolvido utilizando as tecnologias mais recentes do ecossistem
 
 ## Telas do Aplicativo
 
-*(Recomendo que você tire prints das telas do seu app e coloque aqui. Isso torna o README muito mais atraente!)*
+| Menu Principal | Máquinas |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/menu.jpg" alt="Tela do Menu" width="300"/> | <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/maquinas.jpg" alt="Tela de Máquinas" width="300"/> |
 
-| Login | Obras | Mapa |
-| :---: | :---: | :---: |
-| [Imagem da tela de Login] | [Imagem da tela de Obras] | [Imagem da tela de Mapa] |
+| Mapa | Calendário |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/mapa.jpg" alt="Tela do Mapa" width="300"/> | <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/calendario.jpg" alt="Tela do Calendário" width="300"/> |
 
-| Calendário | Perfil | Configurações |
-| :---: | :---: | :---: |
-| [Imagem da tela de Calendário] | [Imagem da tela de Perfil] | [Imagem da tela de Configurações] |
 
 ---
 
