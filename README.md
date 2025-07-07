@@ -8,10 +8,10 @@
 <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-orange.svg" alt="UI">
 <img src="https://img.shields.io/badge/license-Proprietary-red.svg" alt="Licença">
 </p>
----
+
 <p align="center">
 Um aplicativo Android moderno para a gestão e monitoramento de obras civis, desenvolvido para a empresa Soenvil. O app centraliza informações cruciais sobre máquinas, obras e cronogramas, facilitando a comunicação e a tomada de decisões em campo.
-***
+
 <p align="center">
 📲 Disponível na Google Play
 </p>
