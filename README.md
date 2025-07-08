@@ -52,14 +52,12 @@ O projeto foi desenvolvido utilizando as tecnologias mais recentes do ecossistem
 
 ## Telas do Aplicativo
 
-| Menu Principal | Máquinas |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/menu.jpg" alt="Tela do Menu" width="300"/> | <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/maquinas.jpg" alt="Tela de Máquinas" width="300"/> |
-
-| Mapa | Calendário |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/mapa.jpg" alt="Tela do Mapa" width="300"/> | <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/calendario.jpg" alt="Tela do Calendário" width="300"/> |
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/menu.jpg" alt="Tela do Menu" width="200"/>
+  <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/maquinas.jpg" alt="Tela de Máquinas" width="200"/>
+  <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/mapa.jpg" alt="Tela do Mapa" width="200"/>
+  <img src="https://raw.githubusercontent.com/matheussilvagarcia/Soenvil/main/capturasdetela/calendario.jpg" alt="Tela do Calendário" width="200"/>
+</p>
 
 ---
 
@@ -91,7 +89,6 @@ Este projeto é licenciado sob uma licença proprietária. A cópia, modificaç�
 ## Autor
 
 **Matheus Silva Garcia**
-* [Meu site](matheussilvagarcia.com)
+* [Meu site](https://matheussilvagarcia.com)
 * [LinkedIn](https://www.linkedin.com/in/matheussilvagarcia/)
-
 * [Email](mailto:email@matheussilvagarcia.com)
