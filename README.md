@@ -92,6 +92,6 @@ Este projeto é licenciado sob uma licença proprietária. A cópia, modificaç�
 
 **Matheus Silva Garcia**
 * [Meu site](matheussilvagarcia.com)
-* [LinkedIn](ttps://www.linkedin.com/in/matheussilvagarcia/)
+* [LinkedIn](https://www.linkedin.com/in/matheussilvagarcia/)
 
 * [Email](mailto:email@matheussilvagarcia.com)
