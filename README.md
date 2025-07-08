@@ -91,7 +91,7 @@ Este projeto é licenciado sob uma licença proprietária. A cópia, modificaç�
 ## Autor
 
 **Matheus Silva Garcia**
+* [Meu site](matheussilvagarcia.com)
+* [LinkedIn](ttps://www.linkedin.com/in/matheussilvagarcia/)
 
-* [LinkedIn](URL_DO_SEU_LINKEDIN_AQUI)
-* [GitHub](URL_DO_SEU_GITHUB_AQUI)
-* [Email](mailto:SEU_EMAIL_AQUI)
+* [Email](mailto:email@matheussilvagarcia.com)
