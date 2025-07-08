@@ -37,16 +37,11 @@ O projeto foi desenvolvido utilizando as tecnologias mais recentes do ecossistem
 
 ## Funcionalidades Principais
 
-* **Autenticação Segura:** Login e registro de usuários utilizando Firebase Authentication.
 * **Dashboard de Obras:** Visualize uma lista completa de todas as obras em andamento e concluídas.
 * **Gerenciamento de Máquinas:** Acompanhe o status e a localização de cada máquina da frota.
 * **Visualização em Mapa:** Veja a distribuição geográfica das obras e máquinas em um mapa interativo.
-* **Cronograma de Atividades:** Um calendário integrado para monitorar prazos e eventos importantes.
-* **Perfil de Usuário:** Gerencie suas informações pessoais e saia do aplicativo com segurança.
-* **Configurações Avançadas:**
-    * **Tema Dinâmico:** Alterne entre os modos claro, escuro ou o padrão do sistema.
-    * **Suporte Multilíngue (i18n):** O aplicativo está disponível em 10 idiomas, com a possibilidade de expansão.
-* **Histórico de Alterações:** Um changelog para acompanhar as atualizações e novidades do app.
+* **Cronograma de Atividades:** Um calendário integrado para monitorar o status de cada máquina em qualquer data.
+* **Histórico de Alterações:** Um changelog para acompanhar as atualizações que cada usuário realizou.
 
 ---
 
@@ -73,7 +68,7 @@ Este projeto foi construído com uma arquitetura moderna e componentes de alta q
 * **Backend & Banco de Dados:**
     * Firebase Authentication para gerenciamento de usuários.
     * Cloud Firestore como banco de dados NoSQL em tempo real.
-* **Preferências do Usuário:** Jetpack DataStore para persistir configurações de tema e idioma.
+* **Preferências do Usuário:** Jetpack DataStore para persistir configurações
 * **Mapas:** Google Maps Platform.
 
 ---
